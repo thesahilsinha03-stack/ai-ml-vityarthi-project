@@ -1,1 +1,0 @@
-# ai-ml-vityarthi-project
