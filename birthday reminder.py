@@ -17,7 +17,7 @@ while True:
         name = input('Whose bday? ')
         date = new.split('-')
         bday_log.append((name, tuple(date)))
-        print(f"✅ Added {name} to the list!\n")
+        print(f" Added {name} to the list!\n")
     else:
         break # Exit the loop if the user doesn't type 'y'
 
