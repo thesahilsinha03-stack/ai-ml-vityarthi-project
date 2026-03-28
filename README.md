@@ -79,4 +79,3 @@ Age Calculation: It subtracts the birth year from the current year.
 
 Ordinal Suffixes: It uses a smart dictionary lookup to determine whether to append "st", "nd", "rd", or "th" based on the age (e.g., 21st, 22nd, 23rd).
 
-Since your script currently clears the new names every time you close the terminal, would you like me to help you set up a "Save to File" feature using JSON?
